@@ -116,8 +116,7 @@ Get status of an ingestion:
 
 You can test the API on the live server:
 [
-👉 **[https://loop-ai-734k.onrender.com/](https://your-deployment-url.com](https://loop-ai-734k.onrender.com/))**  
-_(Replace with your actual deployed link, e.g., Render, Vercel, Railway, etc.)_
+👉 **[https://loop-ai-734k.onrender.com/]((https://loop-ai-734k.onrender.com/))**  
 
 ---
 
